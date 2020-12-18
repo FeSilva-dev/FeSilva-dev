@@ -10,6 +10,7 @@
   <strong>HTML, CSS, Sass, Bootstrap, UX|UI Design.</strong><br>
 
   💻 Languages:<br>
+  <br>
   <strong>Javascript</strong><br>
     - [x] ReactJS<br>
     - [x] React Native<br>
