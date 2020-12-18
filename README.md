@@ -9,11 +9,11 @@
   🌈 Skills: 
   <strong>HTML, CSS, Sass, Bootstrap, UX|UI Design.</strong><br>
 
-  💻 Languages:
-  <strong>Javascript</strong>
-    - [x] ReactJS
-    - [x] React Native
-    - [x] NodeJS
+  💻 Languages:<br>
+  <strong>Javascript</strong><br>
+    - [x] ReactJS<br>
+    - [x] React Native<br>
+    - [x] NodeJS<br>
     <br>
   <strong>Ruby on Rails</strong>
 </p>
@@ -27,7 +27,7 @@
 </p>
 
 <p align="left">
-  <a href="feliper.silva011@gmail.com" alt="Gmail">
+  <a href="mailto:feliper.silva011@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=feliper.silva011@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/felipe-rodrigues-191b79201/" alt="Linkedin">
