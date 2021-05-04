@@ -1,26 +1,45 @@
 <img src="./unicornImage.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Felipe cartoon">
 
 <p align="left"> 
-  Hey guys name is Felipe Rodrigues, i'm 18yo, i am code lover, now studying Ruby on Rails and making new projects to fix new programming skills.<br>
+  Hey guys my name is Felipe Rodrigues, i'm 18yo, i am code lover, now studying Ruby on Rails and making new projects to fix new programming skills.<br>
   <strong>I am a FullStack Javascript Developer</strong>.<br>
 </p>
 
 <p align="left">
-  🌈 Skills: 
-  <strong>HTML, CSS, Sass, Bootstrap, UX|UI Design.</strong><br>
+  🌈 Hard Skills:<br>
+  <strong>HTML, CSS, Sass, Bootstrap, Styled Components, UX|UI Design</strong><br>
 
   💻 Languages:<br>
-  <br>
-  <strong>Javascript</strong><br>
-    - [x] ReactJS<br>
+    - [x] React.js<br>
+    - [x] TypeScript<br>
+    - [x] Next.js<br>
+    - [x] Node.js<br>
     - [x] React Native<br>
-    - [x] NodeJS<br>
+    - [x] Flutter<br>
+    - [x] Vue.js<br>
+    - [x] Angular<br>  
     <br>
-  <strong>Ruby on Rails</strong>
+    
+  💾 Database:<br>
+    - [x] MongoDB<br>
+    - [x] PostgreSQL<br>
+    - [x] MySQL<br>
+    <br>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Figma, Git/Github, Netlify, Heroku</strong>
+  🧑🏻‍🎓 Soft Skills:<br>
+    - [x] Communicative<br>
+    - [x] Agile Methodologies<br>
+    - [x] Creative<br>
+    - [x] Adventurous<br>
+    - [x] Proactive<br>
+    - [x] Leader<br>
+    - [x] Team Work<br> 
+</p>
+
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Figma, Git/Github, Netlify, Heroku, Vercel, Kanban, Trello, Notion</strong>
 </p>
 
 <p align="left">
