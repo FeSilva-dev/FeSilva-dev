@@ -6,36 +6,35 @@
 </p>
 
 <p align="left">
-  🌈 Hard Skills:<br>
-  <strong>HTML, CSS, Sass, Bootstrap, Styled Components, UX|UI Design</strong><br>
+  🌈 <strong>Hard Skills:</strong><br>
+    HTML, CSS, Sass, Bootstrap, Styled Components, UX|UI Design
+  <br>
+  
+  💻 <strong>Languages:</strong><br>
+      - [x] React.js<br>
+      - [x] TypeScript<br>
+      - [x] Next.js<br>
+      - [x] Node.js<br>
+      - [x] React Native<br>
+      - [x] Flutter<br>
+      - [x] Vue.js<br>
+      - [x] Angular<br>  
 
-  💻 Languages:<br>
-    - [x] React.js<br>
-    - [x] TypeScript<br>
-    - [x] Next.js<br>
-    - [x] Node.js<br>
-    - [x] React Native<br>
-    - [x] Flutter<br>
-    - [x] Vue.js<br>
-    - [x] Angular<br>  
-    <br>
-    
-  💾 Database:<br>
-    - [x] MongoDB<br>
-    - [x] PostgreSQL<br>
-    - [x] MySQL<br>
-    <br>
+  💾 <strong>Database:</strong><br>
+      - [x] MongoDB<br>
+      - [x] PostgreSQL<br>
+      - [x] MySQL<br>
 </p>
 
 <p align="left">
-  🧑🏻‍🎓 Soft Skills:<br>
-    - [x] Communicative<br>
-    - [x] Agile Methodologies<br>
-    - [x] Creative<br>
-    - [x] Adventurous<br>
-    - [x] Proactive<br>
-    - [x] Leader<br>
-    - [x] Team Work<br> 
+  🦄 <strong>Soft Skills:</strong><br>
+      - [x] Communicative<br>
+      - [x] Agile Methodologies<br>
+      - [x] Creative<br>
+      - [x] Adventurous<br>
+      - [x] Proactive<br>
+      - [x] Leader<br>
+      - [x] Team Work<br> 
 </p>
 
 <p align="left">
