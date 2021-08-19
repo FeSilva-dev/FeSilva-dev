@@ -16,9 +16,7 @@
       - [x] Next.js<br>
       - [x] Node.js<br>
       - [x] React Native<br>
-      - [x] Flutter<br>
-      - [x] Vue.js<br>
-      - [x] Angular<br>  
+      - [x] Flutter<br> 
 
   💾 <strong>Database:</strong><br>
       - [x] MongoDB<br>
@@ -39,10 +37,6 @@
 
 <p align="left">
   💼 Tools: <strong>Visual Studio Code, Figma, Git/Github, Netlify, Heroku, Vercel, Kanban, Trello, Notion</strong>
-</p>
-
-<p align="left">
-  💌 If you liked any project, or are you interested in start a new, please send-me a message: ⤵️
 </p>
 
 <p align="left">
