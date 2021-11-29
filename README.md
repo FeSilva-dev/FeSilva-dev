@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hey guys my name is Felipe Rodrigues, i'm 18yo, i am code lover, now studying Ruby on Rails and making new projects to fix new programming skills.<br>
-  <strong>I am a FullStack Javascript Developer</strong>.<br>
+  <strong>I am a FrontEnd Developer</strong>.<br>
 </p>
 
 <p align="left">
