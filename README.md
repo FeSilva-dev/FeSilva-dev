@@ -7,7 +7,7 @@
 
 <p align="left">
   🌈 <strong>Hard Skills:</strong><br>
-    HTML, CSS, Sass, Bootstrap, Styled Components, UX|UI Design
+    HTML, CSS, Sass, Bootstrap, Styled Components, SCSS, UX|UI Design
   <br>
   
   💻 <strong>Languages:</strong><br>
@@ -15,6 +15,7 @@
       - [x] TypeScript<br>
       - [x] Next.js<br>
       - [x] Node.js<br>
+      - [x] NestJS<br>
       - [x] React Native<br>
       - [x] Flutter<br> 
 
