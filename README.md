@@ -1,7 +1,7 @@
 <img src="./unicornImage.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Felipe cartoon">
 
 <p align="left"> 
-  Hey guys my name is Felipe Rodrigues, i'm 19yo, i am code lover, now studying NestJS and Angular and making new projects to fix new programming skills.<br>
+  Hey guys my name is Felipe Rodrigues, i'm 19yo, i am code lover, now studying NestJS and Angular and making new projects to fix programming skills.<br>
   <strong>I am a FrontEnd Developer</strong>.<br>
 </p>
 
