@@ -1,25 +1,28 @@
 <img src="./unicornImage.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Felipe cartoon">
 
 <p align="left"> 
-  Hey guys my name is Felipe Rodrigues, i'm 19yo, i am code lover, now studying NestJS and Angular and making new projects to fix programming skills.<br>
-  <strong>I am a FrontEnd Developer</strong>.<br>
+  Desenvolvedor Front End com foco em React e Next.js!
+  Atuando desde 2019 com React, Next.js, CSS in JS, Javascript, Typescript, Node.js. Já atuei como desenvolvedor Front End, Back End, Full Stack e Mobile.
+
+Possuo amplo conhecimento e experiência em estruturação de projetos, habilidades em metodologias ágeis como Scrum e Kanban, boas práticas de desenvolvimento, SOLID, DDD Clean Architecture e Clean Code, modelagem de banco de dados, testes unitários, de integrações e end to end, refatorações e melhorias de código legado.
 </p>
 
 <p align="left">
-  🌈 <strong>Hard Skills:</strong><br>
-    HTML, CSS, Sass, Bootstrap, Styled Components, SCSS, UX|UI Design
-  <br>
-  
-  💻 <strong>Languages:</strong><br>
-      - [x] React.js<br>
-      - [x] TypeScript<br>
+  💻 <strong>Tecnologias utilizadas:</strong><br>
+      - [x] React<br>
       - [x] Next.js<br>
-      - [x] Node.js<br>
-      - [x] NestJS<br>
+      - [x] Typescript<br>
+      - [x] GraphQL<br>
+      - [x] Styled Components<br>
+      - [x] TailwindCSS<br>
+      - [x] Storybook<br>
+      - [x] JEST<br>
+      - [x] Cypress<br>
+      - [x] Express<br>
+      - [x] NestJs<br>
       - [x] React Native<br>
-      - [x] Flutter<br> 
 
-  💾 <strong>Database:</strong><br>
+  💾 <strong>Banco de dados:</strong><br>
       - [x] MongoDB<br>
       - [x] PostgreSQL<br>
       - [x] MySQL<br>
@@ -27,13 +30,13 @@
 
 <p align="left">
   🦄 <strong>Soft Skills:</strong><br>
-      - [x] Communicative<br>
-      - [x] Agile Methodologies<br>
-      - [x] Creative<br>
-      - [x] Adventurous<br>
-      - [x] Proactive<br>
-      - [x] Leader<br>
-      - [x] Team Work<br> 
+      - [x] Comunicativo<br>
+      - [x] Metodologias ágeis<br>
+      - [x] Criativo<br>
+      - [x] Aventureiro<br>
+      - [x] Proativo<br>
+      - [x] Facilidade em resolver problemas<br>
+      - [x] Lideração de equipe<br>
 </p>
 
 <p align="left">
@@ -44,6 +47,6 @@
   <a href="mailto:feliper.silva011@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=feliper.silva011@gmail.com" /></a>
 
-  <a href="https://www.linkedin.com/in/felipe-rodrigues-191b79201/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-rodrigues-191b79201/" /></a>
+  <a href="https://www.linkedin.com/in/fesilva-dev" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fesilva-dev" /></a>
 </p>  
