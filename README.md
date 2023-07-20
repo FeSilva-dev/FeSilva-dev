@@ -1,8 +1,8 @@
 <img src="./unicornImage.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Felipe cartoon">
 
 <p align="left"> 
-  Desenvolvedor Front End com foco em React e Next.js!
-  Atuando desde 2019 com React, Next.js, CSS in JS, Javascript, Typescript, Node.js. Já atuei como desenvolvedor Front End, Back End, Full Stack e Mobile.
+  Desenvolvedor Front End com foco em React e Next.js!<br>
+  Atuando desde 2019 com React, Next.js, CSS in JS, Javascript, Typescript, Node.js. Já atuei como desenvolvedor Front End, Back End, Full Stack e Mobile.<br>>
 
 Possuo amplo conhecimento e experiência em estruturação de projetos, habilidades em metodologias ágeis como Scrum e Kanban, boas práticas de desenvolvimento, SOLID, DDD Clean Architecture e Clean Code, modelagem de banco de dados, testes unitários, de integrações e end to end, refatorações e melhorias de código legado.
 </p>
