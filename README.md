@@ -133,25 +133,7 @@ I thrive in high-pressure environments. Sometimes running **2-3 jobs simultaneou
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=FeSilva-dev&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FeSilva-dev&theme=darkhub&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FeSilva-dev/FeSilva-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FeSilva-dev/FeSilva-dev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FeSilva-dev/FeSilva-dev/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
 
 ## Activity Graph
 
