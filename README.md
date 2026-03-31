@@ -33,23 +33,6 @@ I thrive in high-pressure environments. Sometimes running **2-3 jobs simultaneou
 
 ---
 
-## Impact & Numbers
-
-<div align="center">
-
-| Metric | Result |
-|--------|--------|
-| Financing proposals processed daily | **Hundreds** |
-| Operational efficiency improvement (Touchway) | **+30%** |
-| Feature development time reduction (Conven+) | **-40%** |
-| Inventory control accuracy improvement | **+80%** |
-| Infrastructure migration downtime | **Zero** |
-| POS system availability (offline-first) | **100%** |
-
-</div>
-
----
-
 ## Tech Stack
 
 <div align="center">
